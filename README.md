@@ -90,5 +90,5 @@ endmodule
 ![Screenshot (26)](https://github.com/SubhashriRavichandran10/study-of-basic-gates/assets/145743413/ce308249-be39-47d5-95f0-572d5237fa4a)
 ![Screenshot (27)](https://github.com/SubhashriRavichandran10/study-of-basic-gates/assets/145743413/21ca9eef-4158-4c4e-80ae-fe1ab22d8a25)
 
-
+logic gates in Quartus II using Verilog programming is done successfully.
 
